@@ -1,0 +1,23 @@
+How we get the hourly average with the weather data
+USAF: not important, use the first one
+WBAN: not important, use the first one
+YR--MODAHRMN: cast to hourly, drop the minute field
+DIR: take average
+SPD & GUS: take average
+CLG: take average
+SKC: take first one, impossible to average
+L M H: drop it, most of this record is null
+VSB: take average
+MW MW MW MW AW AW AW AW: take first one
+W: take first one
+TEMP & DEMP: take average
+SLP: average
+ALT: average
+STP: average
+MAX: average
+MIN: average
+PCP01: average
+PCP06: average
+PCP24: average
+PCPXX: average
+SD: average
