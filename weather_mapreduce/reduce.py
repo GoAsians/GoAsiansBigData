@@ -51,7 +51,7 @@ def addto(valu):
     t_value[19] = valu[19]
 
 def printout():
-    print '%s\t%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s' % (current_key, t_value[0],t_value[1],t_value[2][1],t_value[3][1],t_value[4][1],t_value[5][1],t_value[6],t_value[7],t_value[8],t_value[9],t_value[10][1],t_value[11],t_value[12],t_value[13],t_value[14],t_value[15],t_value[16],t_value[17],t_value[18],t_value[19],t_value[20][1],t_value[21][1],t_value[22][1],t_value[23][1],t_value[24][1],t_value[25][1],t_value[26][1],t_value[27][1],t_value[28][1],t_value[29][1],t_value[30][1],t_value[31][1])
+    print '%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s' % (current_key, t_value[0],t_value[1],t_value[2][1],t_value[3][1],t_value[4][1],t_value[5][1],t_value[6],t_value[7],t_value[8],t_value[9],t_value[10][1],t_value[11],t_value[12],t_value[13],t_value[14],t_value[15],t_value[16],t_value[17],t_value[18],t_value[19],t_value[20][1],t_value[21][1],t_value[22][1],t_value[23][1],t_value[24][1],t_value[25][1],t_value[26][1],t_value[27][1],t_value[28][1],t_value[29][1],t_value[30][1],t_value[31][1])
 #input comes from STDIN (stream data that goes to the program)
 
 for line in sys.stdin:
