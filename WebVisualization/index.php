@@ -1154,34 +1154,34 @@ From the graph, we can observe that at low temperatures, New Yorkers prefer Yell
 							<a href="details.php?id=Pi&amp;src=Distance_Total_Amount_Relation_Yellow_Taxi&amp;name=Distance_Total_Amount_Relation_Yellow_Taxi&amp;desp=The Line Graph depicts the Average Total Fare and the distance covered in Yellow Taxi. The X-axis shows the distance range, and Y-axis shows the Average Total Fare Amount in Dollars.">
 								<img src="https://public.tableau.com/static/images/Di/Distance_Total_Amount_Relation_Yellow_Taxi/Sheet1/4_3.png" alt="" />
 								<dl>
-									<dt>Distance vs Average Total Fare Amount for yellow taxi</dt>
+									<dt>Distance vs Average Total Fare(Taxi)</dt>
 									<dd></dd>	
 								</dl>
 							</a>
                             <div id="wrapper-part-info">
                             	<div class="part-info-image"><img src="" alt="" width="28" height="28"/></div>
-                            	<div id="part-info">Distance vs Average Total Fare Amount for yellow taxi</div>
+                            	<div id="part-info">Distance vs Average Total Fare(Taxi)</div>
 							</div>
 						</figure>	
                         <figure class="white">
 							<a href="details.php?id=Di&amp;src=Distance_Yellow_Taxi_Users&amp;name=Distance_Yellow_Taxi_Users&amp;desp=The Line Graph shows the Total Yellow Taxi users for various distance range. The graph shows that maximum Yellow Taxi Users travel in the Yellow Taxi for short distances only. In the graph, we can observe that between 1-2 Miles, maximum number of Yellow Taxi are hired.">
 								<img src="https://public.tableau.com/static/images/Di/Distance_Yellow_Taxi_Users/Sheet1/4_3.png" alt="" />
 								<dl>
-									<dt>16.	Distance Vs Total Yellow Taxi Users</dt>
+									<dt>Distance Vs Total Taxi Users</dt>
 									<dd></dd>	
 								</dl>
 							</a>
                             <div id="wrapper-part-info">
                             	<div class="part-info-image"><img src="" alt="" width="28" height="28"/></div>
-                            	<div id="part-info">16.	Distance Vs Total Yellow Taxi Users</div>
+                            	<div id="part-info">Distance Vs Total Taxi Users</div>
 							</div>
 						</figure>	
 						<figure class="white">
 							<a href="details.php?id=Pi&amp;src=Famous_locations_yellow_taxi_pick_up&amp;name=Famous_locations_yellow_taxi_pick_up&amp;desp=The Line Graph depicts the Average Total Fare and the distance covered in Yellow Taxi. The X-axis shows the distance range, and Y-axis shows the Average Total Fare Amount in Dollars.">
 								<img src="https://public.tableau.com/static/images/Fa/Famous_locations_yellow_taxi_pick_up/Sheet1/4_3.png" alt="" />
 								<dl>
-									<dt>17.	Yellow Taxi with most number of Pick-Up Locations</dt>
-									<dd></dd>	
+									<dt>Taxi with most no. of Pick-Up Locations</dt>
+									<dd></dd>
 								</dl>
 							</a>
                             <div id="wrapper-part-info">
