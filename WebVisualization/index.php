@@ -1176,6 +1176,19 @@ From the graph, we can observe that at low temperatures, New Yorkers prefer Yell
                             	<div id="part-info">16.	Distance Vs Total Yellow Taxi Users</div>
 							</div>
 						</figure>	
+						<figure class="white">
+							<a href="details.php?id=Pi&amp;src=Famous_locations_yellow_taxi_pick_up&amp;name=Famous_locations_yellow_taxi_pick_up&amp;desp=The Line Graph depicts the Average Total Fare and the distance covered in Yellow Taxi. The X-axis shows the distance range, and Y-axis shows the Average Total Fare Amount in Dollars.">
+								<img src="https://public.tableau.com/static/images/Fa/Famous_locations_yellow_taxi_pick_up/Sheet1/4_3.png" alt="" />
+								<dl>
+									<dt>17.	Yellow Taxi with most number of Pick-Up Locations</dt>
+									<dd></dd>	
+								</dl>
+							</a>
+                            <div id="wrapper-part-info">
+                            	<div class="part-info-image"><img src="" alt="" width="28" height="28"/></div>
+                            	<div id="part-info">17.	Yellow Taxi with most number of Pick-Up Locations</div>
+							</div>
+						</figure>
 					</section>
                     
 				</div>	
