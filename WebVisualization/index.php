@@ -935,7 +935,7 @@ body,html{
                        
 					<section class="work">
 <figure class="white">
-							<a href="details.php?id=Ye&amp;src=Yearly_bike_yellow_users&amp;name=Yearly_bike_yellow_users&amp;desp=text">
+							<a href="details.php?id=Ye&amp;src=Yearly_bike_yellow_users&amp;name=Yearly_bike_yellow_users&amp;desp=TheSide-By-Side Bar Graph depicts the total number of users for Yellow taxi and Citi Bike Usersfor various Temperature Ranges. The X-axis denotes the temperature scalewith a range span of 5 Fahrenheit and the Y-axis denotes the number of users for Yellow taxi and Citi bike within that particular temperature range">
 								<img src="https://public.tableau.com/static/images/Ye/Yearly_bike_yellow_users/Sheet1/4_3.png" alt="" />
 								<dl>
 									<dt>Yearly bike & Taxi users</dt>
@@ -949,11 +949,11 @@ body,html{
 						</figure>	
 
 						<figure class="white">
-							<a href="details.php?id=Ye&amp;src=Yearly_count_bike_yellow&amp;name=Yearly_count_bike_yellow&amp;desp=text">
+							<a href="details.php?id=Ye&amp;src=Yearly_count_bike_yellow&amp;name=Yearly_count_bike_yellow&amp;desp=ThePie Chart depicts the total number of users for Yellow taxi and Citi Bike in the year 2015. ">
 								<img src="https://public.tableau.com/static/images/Ye/Yearly_count_bike_yellow/Sheet1/4_3.png" alt="" />
 								<dl>
 									<dt>Yearly Bike User Count</dt>
-									<dd>TheSide-By-Side Bar Graph depicts the total number of users for Yellow taxi and Citi Bike Usersfor various Temperature Ranges. The X-axis denotes the temperature scalewith a range span of 5 Fahrenheit and the Y-axis denotes the number of users for Yellow taxi and Citi bike within that particular temperature range.</dd>	
+									<dd></dd>	
 								</dl>
 							</a>
                             <div id="wrapper-part-info">
@@ -963,11 +963,11 @@ body,html{
 						</figure>
 						
 						<figure class="white">
-							<a href="details.php?id=Ye&amp;src=Yearly_Users_Bike_Green_Yellow&amp;name=Yearly_Users_Bike_Green_Yellow&amp;desp=text">
+							<a href="details.php?id=Ye&amp;src=Yearly_Users_Bike_Green_Yellow&amp;name=Yearly_Users_Bike_Green_Yellow&amp;desp=This Bar graph depicts the total number of citi bike, Yellow Taxi and Green Taxi users.">
 								<img src="https://public.tableau.com/static/images/Ye/Yearly_Users_Bike_Green_Yellow/Sheet1/4_3.png" alt="" />
 								<dl>
 									<dt>Yearly Users</dt>
-									<dd>This Bar graph depicts the total number of citi bike, Yellow Taxi and Green Taxi users.</dd>	
+									<dd></dd>	
 								</dl>
 							</a>	
                             <div id="wrapper-part-info">
@@ -976,11 +976,11 @@ body,html{
 							</div>
 						</figure>	
 						<figure class="white">
-							<a href="details.php?id=Mo&amp;src=Monthly_Users_Bikes_Green_Yellow&amp;name=Monthly_Users_Bikes_Green_Yellow&amp;desp=text">
+							<a href="details.php?id=Mo&amp;src=Monthly_Users_Bikes_Green_Yellow&amp;name=Monthly_Users_Bikes_Green_Yellow&amp;desp=This graph depicts the total number of users on monthly basis for Yellow taxi, and Citi Bike. The X-axis denotes the number of users and the Y-axis denotes the month.">
 								<img src="https://public.tableau.com/static/images/Mo/Monthly_Users_Bikes_Green_Yellow/Sheet1/4_3.png" alt="" />
 								<dl>
 									<dt>Monthly Users </dt>
-									<dd>This graph depicts the total number of users on monthly basis for Yellow taxi, and Citi Bike. The X-axis denotes the number of users and the Y-axis denotes the month.</dd>	
+									<dd></dd>	
 								</dl>
 							</a>
                             <div id="wrapper-part-info">
@@ -989,11 +989,11 @@ body,html{
 							</div>
 						</figure>							
 						<figure class="white">
-							<a href="details.php?id=Ye&amp;src=Yellow_Taxi_Users_Per_Day_Analysis&amp;name=Yellow Taxi_Users_Per_Day_Analysis&amp;desp=text">
+							<a href="details.php?id=Ye&amp;src=Yellow_Taxi_Users_Per_Day_Analysis&amp;name=Yellow Taxi_Users_Per_Day_Analysis&amp;desp=The Area Graph shows the number of Yellow Taxi Users per day, whereas the Line Graphs shows the Temperature (F), Rainfall (inches), Wind Speed(mph) and Snowfall Depth (inches) for every day in year 2015. The graph shows the relation between number of Yellow Taxi Users and the weather attributes">
 								<img src="https://public.tableau.com/static/images/Ye/Yellow_Taxi_Users_Per_Day_Analysis/Sheet1/4_3.png" alt="" />
 								<dl>
 									<dt>Yellow Taxi Users/Day Analysis</dt>
-									<dd>description</dd>	
+									<dd></dd>	
 								</dl>
 							</a>
                             <div id="wrapper-part-info">
@@ -1003,11 +1003,11 @@ body,html{
                         </figure>	
 
 						<figure class="white">
-							<a href="details.php?id=Bi&amp;src=Bike_User_Per_Day_Analysis&amp;name=Bike_User_Per_Day_Analysis&amp;desp=text">
+							<a href="details.php?id=Bi&amp;src=Bike_User_Per_Day_Analysis&amp;name=Bike_User_Per_Day_Analysis&amp;desp=The Area Graph depicts the number of Citi Bike Users per day. The Line Graph represents various weather attributes such as Temperature (in F), Rainfall (in inches), Snowfall Depth (in inches), and Wind Speed (in mph). From the graph, we can observe that the number of Citi Bike Users decrease tremendously whenever there was Snowfall. Also, the number of Citi Bike Users decreased with the decrease in the temperature (in F). Although, there was no such observation for Wind Speed and Rainfall. The number of Citi Bike Users were not affected by Rainfall and Wind Speed.">
 								<img src="https://public.tableau.com/static/images/Bi/Bike_User_Per_Day_Analysis/Sheet1/4_3.png" alt="" />
 								<dl>
 									<dt>Bike_User/Day_Analysis</dt>
-									<dd>The AreaGraph depicts the number of Citi Bike Users per day. The Line Graph represents various weather attributes such as Temperature (in F), Rainfall (in inches), Snowfall Depth (in inches), and Wind Speed (in mph). From the graph, we can observe that the number of Citi Bike Users decrease tremendously whenever there was Snowfall. Also, the number of Citi Bike Users decreased with the decrease in the temperature (in F). Although, there was no such observation for Wind Speed and Rainfall. The number of Citi Bike Users were not affected by Rainfall and Wind Speed.</dd>
+									<dd></dd>
 								</dl>
 							</a>	
                             <div id="wrapper-part-info">
@@ -1016,31 +1016,15 @@ body,html{
 							</div>
 						</figure>	
 
-		
-
-						<figure class="white">
-							<a href="details.php?id=Ye&amp;src=Yearly_temp_users_bike_green_yellow&amp;name=Yearly_temp_users_bike_green_yellow&amp;desp=text">
-								<img src="https://public.tableau.com/static/images/Ye/Yearly_temp_users_bike_green_yellow/Sheet1/4_3.png" alt="" />
-								<dl>
-									<dt>Users vs Temperature</dt>
-									<dd>Symphony is a responsive one page website template designed with sketches and coded with html5 and php. Freebie released by Lacoste Xavier.</dd>	
-								</dl>
-							</a>
-                            <div id="wrapper-part-info">
-                            	<div class="part-info-image"><img src="" alt="" width="28" height="28"/></div>
-                            	<div id="part-info">Users Vs Temperature</div>
-							</div>
-						</figure>	
-
 
 							
 
 						<figure class="white">
-							<a href="details.php?id=ye&amp;src=Yellow_Taxi_Users_Per_Day_Analysis&amp;name=Yellow_Taxi_Users_Per_Day_Analysis&amp;desp=text">
+							<a href="details.php?id=ye&amp;src=Yellow_Taxi_Users_Per_Day_Analysis&amp;name=Yellow_Taxi_Users_Per_Day_Analysis&amp;desp=TEXT">
 								<img src="https://public.tableau.com/static/images/Vi/Visibility_vs_Citi_Bike_Per_Week/Sheet1/4_3.png" alt="" />
 								<dl>
 									<dt>Visibility vs Citi Bike</dt>
-									<dd>This graph depicts the effects of Visibility on the Citi Bike Users. As we can see that as the Visibility (in miles) increases the Citi Bike Users also increases. The range for the above graph is from May 1 to November 1, since the number of Citi Bike Users depends on various other weather factors during other months. </dd>	
+									<dd></dd>	
 								</dl>
 							</a>
                             <div id="wrapper-part-info">
@@ -1050,13 +1034,13 @@ body,html{
 						</figure>	
 
 						<figure class="white">
-							<a href="details.php?id=Us&amp;src=Users_Bike_Yellow_Per_Hour&amp;name=Users_Bike_Yellow_Per_Hour&amp;desp=text">
+							<a href="details.php?id=Us&amp;src=Users_Bike_Yellow_Per_Hour&amp;name=Users_Bike_Yellow_Per_Hour&amp;desp=The Bar graph depicts the number of Citi bike Users and Yellow Taxi users for a particular time slot. The time range taken is 1 hour.
+From the above graph, we can observe that most Citi Bike users are most likely to ride a bicycle during evening, around 5pm to 7pm. The reason is most likely that people get done with their jobs and ride bicycle when they get free. Whereas, for Yellow Taxi Users, the peak time is noted between 6pm to 7pm. This clearly indicates that the office time gets over and people leave for their homes via Yellow Taxi.
+ </dd>	">
 								<img src="https://public.tableau.com/static/images/Us/Users_Bike_Yellow_Per_Hour/Sheet1/4_3.png" alt="" />
 								<dl>
 									<dt>Time vs Citi Bike/ Yellow Taxi users</dt>
-									<dd>The Bar graph depicts the number of Citi bike Users and Yellow Taxi users for a particular time slot. The time range taken is 1 hour.
-From the above graph, we can observe that most Citi Bike users are most likely to ride a bicycle during evening, around 5pm to 7pm. The reason is most likely that people get done with their jobs and ride bicycle when they get free. Whereas, for Yellow Taxi Users, the peak time is noted between 6pm to 7pm. This clearly indicates that the office time gets over and people leave for their homes via Yellow Taxi.
- </dd>	
+									<dd>
 								</dl>
 							</a>
                             <div id="wrapper-part-info">
@@ -1080,11 +1064,11 @@ From the above graph, we can observe that most Citi Bike users are most likely t
 						</figure>
 
 						<figure class="white">
-							<a href="details.php?id=Co&amp;src=Count_Gender_Bike&amp;name=Count_Gender_Bike&amp;desp=text">
+							<a href="details.php?id=Co&amp;src=Count_Gender_Bike&amp;name=Count_Gender_Bike&amp;desp=The Pie-Chart graph depicts the number of Citi Bike Users on the basis of Gender. From the graph, it is very clear that the males are more likely to use a Citi Bike than Female. New York City’s population is 53% female and 47% male. Even with more number of females in the NYC, the number of male users for Citi Bike are more..">
 								<img src="https://public.tableau.com/static/images/Co/Count_Gender_Bike/Sheet1/4_3.png" alt="" />
 								<dl>
 									<dt>Gender Bike count</dt>
-									<dd>The Pie-Chart graph depicts the number of Citi Bike Users on the basis of Gender. From the graph, it is very clear that the males are more likely to use a Citi Bike than Female. New York City’s population is 53% female and 47% male. Even with more number of females in the NYC, the number of male users for Citi Bike are more..</dd>	
+									<dd></dd>	
 								</dl>
 							</a>
                             <div id="wrapper-part-info">
@@ -1094,11 +1078,11 @@ From the above graph, we can observe that most Citi Bike users are most likely t
 						</figure>	
 
 						<figure class="white">
-							<a href="details.php?id=Co&amp;src=Count_Age_Wise_Bike&amp;name=Count_Age_Wise_Bike&amp;desp=text">
+							<a href="details.php?id=Co&amp;src=Count_Age_Wise_Bike&amp;name=Count_Age_Wise_Bike&amp;desp=The Pie-Chart Graph depicts the number of Citi bike users on the basis of age. From the above graph, we can observe that the people between the age group of 20-40 years are most athletic. Surprisingly, the next followed age group is 40-60 years old. New York is full of cyclists. Irrespective of the age, everyone loves to cycle around in New York.">
 								<img src="https://public.tableau.com/static/images/Co/Count_Age_Wise_Bike/Sheet1/4_3.png" alt="" />
 								<dl>
 									<dt>User count by age</dt>
-									<dd>The Pie-Chart Graph depicts the number of Citi bike users on the basis of age. From the above graph, we can observe that the people between the age group of 20-40 years are most athletic. Surprisingly, the next followed age group is 40-60 years old. New York is full of cyclists. Irrespective of the age, everyone loves to cycle around in New York.</dd>	
+									<dd></dd>	
 								</dl>
 							</a>
                             <div id="wrapper-part-info">
@@ -1108,11 +1092,11 @@ From the above graph, we can observe that most Citi Bike users are most likely t
 						</figure>	
 
 						<figure class="white">
-							<a href="details.php?id=Co&amp;src=Payment_Type_Count_Yellow_Taxi&amp;name=Payment_Type_Count_Yellow_Taxi&amp;desp=text">
+							<a href="details.php?id=Co&amp;src=Payment_Type_Count_Yellow_Taxi&amp;name=Payment_Type_Count_Yellow_Taxi&amp;desp=This graph depicts the type of payment mode for Yellow Taxi users..">
 								<img src="https://public.tableau.com/static/images/Pa/Payment_Type_Count_Yellow_Taxi/Sheet1/4_3.png" alt="" />
 								<dl>
 									<dt>Payment mode for Yellow Taxi</dt>
-									<dd>This graph depicts the type of payment mode for Yellow Taxi users..</dd>	
+									<dd></dd>	
 								</dl>
 							</a>	
                             <div id="wrapper-part-info">
@@ -1122,11 +1106,11 @@ From the above graph, we can observe that most Citi Bike users are most likely t
 						</figure>	
 
 						<figure class="white">
-							<a href="details.php?id=Bu&amp;src=Busiest_drop_off_Citi_bike_stations&amp;name=Busiest_drop_off_Citi_bike_stations&amp;desp=text">
+							<a href="details.php?id=Bu&amp;src=Busiest_drop_off_Citi_bike_stations&amp;name=Busiest_drop_off_Citi_bike_stations&amp;desp=This graph depicts the type of payment mode for Yellow Taxi users..">
 								<img src="https://public.tableau.com/static/images/Bu/Busiest_drop_off_Citi_bike_stations/Sheet1/4_3.png" alt="" />
 								<dl>
 									<dt>Busiest drop-off stations in NYC</dt>
-									<dd>This graph depicts the type of payment mode for Yellow Taxi users..</dd>	
+									<dd></dd>	
 								</dl>
 							</a>	
                             <div id="wrapper-part-info">
@@ -1136,11 +1120,11 @@ From the above graph, we can observe that most Citi Bike users are most likely t
 						</figure>	
 
 						<figure class="white">
-							<a href="details.php?id=Bu&amp;src=Busiest_pick_up_citi_bike_stations&amp;name=Busiest_pick_up_citi_bike_stations&amp;desp=text">
+							<a href="details.php?id=Bu&amp;src=Busiest_pick_up_citi_bike_stations&amp;name=Busiest_pick_up_citi_bike_stations&amp;desp=This graph depicts the top 20 busiest Pick up locations/stations for the number of citi bike users in New York City.">
 								<img src="https://public.tableau.com/static/images/Bu/Busiest_pick_up_citi_bike_stations/Sheet1/4_3.png" alt="" />
 								<dl>
 									<dt>Busiest Pick up Locations in NYC</dt>
-									<dd>This graph depicts the top 20 busiest Pick up locations/stations for the number of citi bike users in New York City.</dd>	
+									<dd></dd>	
 								</dl>
 							</a>	
                             <div id="wrapper-part-info">
@@ -1150,13 +1134,13 @@ From the above graph, we can observe that most Citi Bike users are most likely t
 						</figure>		
 
 						<figure class="white">
-							<a href="details.php?id=Pe&amp;src=Percentage_Users_Bike_Yellow_Temp_Per_Day&amp;name=Percentage_Users_Bike_Yellow_Temp_Per_Day&amp;desp=text">
+							<a href="details.php?id=Pe&amp;src=Percentage_Users_Bike_Yellow_Temp_Per_Day&amp;name=Percentage_Users_Bike_Yellow_Temp_Per_Day&amp;desp=The Area Graph depicts the Percentage of total number Yellow taxi, and Citi Bike users against Temperature (in F) for each day in 2015. The X-axis denotes each day of year 2015 and the Y-axis denotes the temperature and the Percentage of total users.
+
+From the graph, we can observe that at low temperatures, New Yorkers prefer Yellow Taxi over Citi Bike. We all know how cold it gets during winters. Hence, it’s almost impossible to ride a bicycle during winters which explains why New Yorkers prefer Yellow Taxi over Citi Bike during cold.">
 								<img src="https://public.tableau.com/static/images/Pe/Percentage_Users_Bike_Yellow_Temp_Per_Day/Sheet1/4_3.png" alt="" />
 								<dl>
 									<dt>User Percentage vs Day graph</dt>
-									<dd>The Area Graph depicts the Percentage of total number Yellow taxi, and Citi Bike users against Temperature (in F) for each day in 2015. The X-axis denotes each day of year 2015 and the Y-axis denotes the temperature and the Percentage of total users.
-
-From the graph, we can observe that at low temperatures, New Yorkers prefer Yellow Taxi over Citi Bike. We all know how cold it gets during winters. Hence, it’s almost impossible to ride a bicycle during winters which explains why New Yorkers prefer Yellow Taxi over Citi Bike during cold.
+									<dd>
 </dd>	
 								</dl>
 							</a>	
@@ -1167,11 +1151,11 @@ From the graph, we can observe that at low temperatures, New Yorkers prefer Yell
 						</figure>	
 
 						<figure class="white">
-							<a href="details.php?id=Pi&amp;src=Distance_Total_Amount_Relation_Yellow_Taxi&amp;name=Distance_Total_Amount_Relation_Yellow_Taxi&amp;desp=text">
+							<a href="details.php?id=Pi&amp;src=Distance_Total_Amount_Relation_Yellow_Taxi&amp;name=Distance_Total_Amount_Relation_Yellow_Taxi&amp;desp=The Line Graph depicts the Average Total Fare and the distance covered in Yellow Taxi. The X-axis shows the distance range, and Y-axis shows the Average Total Fare Amount in Dollars.">
 								<img src="https://public.tableau.com/static/images/Di/Distance_Total_Amount_Relation_Yellow_Taxi/Sheet1/4_3.png" alt="" />
 								<dl>
 									<dt>Distance vs Average Total Fare Amount for yellow taxi</dt>
-									<dd>The Line Graph depicts the Average Total Fare and the distance covered in Yellow Taxi. The X-axis shows the distance range, and Y-axis shows the Average Total Fare Amount in Dollars.</dd>	
+									<dd></dd>	
 								</dl>
 							</a>
                             <div id="wrapper-part-info">
@@ -1180,11 +1164,11 @@ From the graph, we can observe that at low temperatures, New Yorkers prefer Yell
 							</div>
 						</figure>	
                         <figure class="white">
-							<a href="details.php?id=Di&amp;src=Distance_Yellow_Taxi_Users&amp;name=Distance_Yellow_Taxi_Users&amp;desp=text">
+							<a href="details.php?id=Di&amp;src=Distance_Yellow_Taxi_Users&amp;name=Distance_Yellow_Taxi_Users&amp;desp=The Line Graph shows the Total Yellow Taxi users for various distance range. The graph shows that maximum Yellow Taxi Users travel in the Yellow Taxi for short distances only. In the graph, we can observe that between 1-2 Miles, maximum number of Yellow Taxi are hired.">
 								<img src="https://public.tableau.com/static/images/Di/Distance_Yellow_Taxi_Users/Sheet1/4_3.png" alt="" />
 								<dl>
 									<dt>16.	Distance Vs Total Yellow Taxi Users</dt>
-									<dd>The Line Graph shows the Total Yellow Taxi users for various distance range. The graph shows that maximum Yellow Taxi Users travel in the Yellow Taxi for short distances only. In the graph, we can observe that between 1-2 Miles, maximum number of Yellow Taxi are hired.</dd>	
+									<dd></dd>	
 								</dl>
 							</a>
                             <div id="wrapper-part-info">
